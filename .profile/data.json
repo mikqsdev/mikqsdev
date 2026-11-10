@@ -1,5 +1,5 @@
 {
- "key": "e900eca2",
+ "key": "612ae04c",
  "stars": 2,
  "contributions": 50,
  "repos": 3,
@@ -94,9 +94,13 @@
    {
     "c": 14,
     "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
     "today": true
    },
-   null,
    null,
    null,
    null,
