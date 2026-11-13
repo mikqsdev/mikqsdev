@@ -1,13 +1,17 @@
 {
- "key": "4ce72713",
+ "key": "e8a5501",
  "stars": 2,
- "contributions": 52,
- "repos": 4,
+ "contributions": 54,
+ "repos": 5,
  "followers": 2,
  "languages": [
   [
    "Swift",
    338437
+  ],
+  [
+   "Rust",
+   43909
   ]
  ],
  "days": [
@@ -107,11 +111,15 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 4,
     "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
     "today": true
    },
-   null,
    null
   ]
  ],
@@ -128,6 +136,15 @@
    "fork": false,
    "stars": 2,
    "language": "Swift",
+   "topics": []
+  },
+  {
+   "name": "windowspp",
+   "url": "https://github.com/mikqsdev/windowspp",
+   "text": "Windows++ — one tray icon doing the job of a few paid Windows apps. Window switcher, snap hotkeys, quit-on-close. Built in Rust.",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
    "topics": []
   },
   {
