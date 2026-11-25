@@ -1,29 +1,29 @@
 {
- "key": "b509d789",
+ "key": "6d114698",
  "stars": 2,
- "contributions": 108,
+ "contributions": 110,
  "repos": 5,
  "followers": 2,
  "languages": [
+  [
+   "TypeScript",
+   376986
+  ],
   [
    "Swift",
    338437
   ],
   [
-   "TypeScript",
-   314586
-  ],
-  [
    "JavaScript",
-   242250
+   287890
   ],
   [
    "Rust",
-   140514
+   145568
   ],
   [
    "CSS",
-   85137
+   94480
   ],
   [
    "HTML",
@@ -126,7 +126,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 2,
     "day": 25,
     "today": true
    },
@@ -136,8 +136,8 @@
   ]
  ],
  "streak": {
-  "current": 3,
-  "longest": 3
+  "current": 4,
+  "longest": 4
  },
  "pins": [],
  "all": [
